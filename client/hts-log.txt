@@ -1,0 +1,72 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Dec 2019 22:38:28 at https://abc/wedding/wedding-new/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+abc
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://abc/wedding/wedding-new/index.html -O1 "C:\client 3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cachabcontain sensitive information,
+abcabc
+	such as username/password authentication for websites mirrored in this projectabcabc
+abcabc
+	do not share these files/folders if you want these information to remain privateabcabc
+abc
+abcabc
+abcabc
+22:38:32	Warning: 	Note: due to https://abc remote robots.txt rules, links beginninabcth will be forbidden: /wp-admin/ (see in the options to disable thiabc
+abcabc
+22:42:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/dresses-listing.html (from https:/abcm/wedding/wedding-new/index.html)
+abcabc
+22:42:20	Warning: 	Retry after error -4 (No data (cabcd)) at link https://abc/wedding/wedding-abcting.html (from https://abc/wedding/wedding-new/index.html)
+abcabc
+22:43:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/location-pic-5.jpg (from https://jitabcdding/wedding-new/index.html)
+abcabc
+22:43:59	Warning: 	Retry after error -4 (No data (connection clabchttps://abc/wedding/wedding-new/images/couple.jpg (from https://abc/wedding/wedding-new/index.html)
+abcabc
+22:44:08	Warning: 	File not parsed, looks like binaabcuchauhan.com/wedding/wedding-new/fonts/glyphicons-halflings-regular.woabc
+abcabc
+22:44:08	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/css/AjaxLoader.gif (from https://abc/abc-new/css/owl.theme.css)
+abcabc
+22:45:31	Warning: 	Retry after error -4 (Connect Error) at link https://jituchauhan.coabcng-new/images/vendor-total-thumb-2.jpg (from https://jiabcedding/wedding-new/index-2.html)
+abcabc
+22:45:31	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at linkabcauhan.com/wedding/wedding-new/images/vendor-total-thumb-3.jpg (fabcuchauhan.com/wedding/wedding-new/index-2.html)
+
+22:45:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/real-wedding-3.jpg (from https://abc/wedding/wedding-new/index-2.html)
+
+22:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/vendor-9.jpg (from https://abc/wedding/wedding-new/vendor-listing-row-map.html)
+
+22:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/vendor-5.jpg (from https://abc/wedding/wedding-new/vendor-listing-row-map.html)
+
+22:45:42	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/vendor-list.html (from https://abc/wedding/wedding-new/couple-landing-page.html)
+
+22:45:43	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/css/flaticon.css (from https://abc/wedding/wedding-new/dashboard-vendor.html)
+
+22:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/profile-dashbaord.png (from https://abc/wedding/wedding-new/dashboard-vendor.html)
+
+22:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/dashboard-profile.html (from https://abc/wedding/wedding-new/dashboard-vendor.html)
+
+22:46:48	Warning: 	File not parsed, looks like binary: https://abc/wedding/wedding-new/fonts/fontello.woff2?37340713
+
+22:46:48	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/images/ui-icons_777777_256x240.png (from https://abc/wedding/wedding-new/css/jquery-ui.css)
+
+22:46:48	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/images/ui-icons_555555_256x240.png (from https://abc/wedding/wedding-new/css/jquery-ui.css)
+
+22:46:48	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/images/ui-icons_ffffff_256x240.png (from https://abc/wedding/wedding-new/css/jquery-ui.css)
+
+22:46:48	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/images/ui-icons_777620_256x240.png (from https://abc/wedding/wedding-new/css/jquery-ui.css)
+
+22:46:48	Error: 	"Not Found" (404) at link https://abc/wedding/wedding-new/images/ui-icons_cc0000_256x240.png (from https://abc/wedding/wedding-new/css/jquery-ui.css)
+
+22:46:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/vendor-9.jpg (from https://abc/wedding/wedding-new/vendor-listing-row-map.html)
+
+22:46:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/js/jquery.circlechart.js (from https://abc/wedding/wedding-new/couple-checklist.html)
+
+22:46:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://abc/wedding/wedding-new/images/profile-dashbaord.png (from https://abc/wedding/wedding-new/dashboard-vendor.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 23 seconds : 209 links scanned, 186 files written (24139732 bytes overall) [23497499 bytes received at 46714 bytes/sec], 1221627 bytes transferred using HTTP compression in 28 files, ratio 30%, 4.2 requests per connection
+
+(8 errors, 17 warnings, 0 messages)
+
