@@ -114,6 +114,7 @@
 					  }		  
 					]
 				} );
+
 				myTable.buttons().container().appendTo( $('.tableTools-container') );
 				
 				//style the message box
@@ -165,8 +166,6 @@
 			
 			
 			
-			
-				/////////////////////////////////
 				//table checkboxes
 				$('th input[type=checkbox], td input[type=checkbox]').prop('checked', false);
 				

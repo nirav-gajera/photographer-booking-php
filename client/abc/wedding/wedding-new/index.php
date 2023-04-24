@@ -225,7 +225,7 @@ $result=mysqli_query($conn,$sql);
                 </div>
 				<div class="col-md-6 location-block">
                     <!-- location block -->
-                    <div class="vendor-image">
+                    <div class="vendor-image"> 
                         <a href="#"><img src="images/baby5.jpg" alt="" class="img-responsive"></a> <a href="#" class="venue-lable"><span class="label label-default">Kids</span></a> </div>
                 </div> 
                 <!-- /.location block -->
@@ -270,11 +270,6 @@ $result=mysqli_query($conn,$sql);
 						<?php
 						}
 						?>
-						
-						
-						
-						
-
 						
                     </div>
                 </div>

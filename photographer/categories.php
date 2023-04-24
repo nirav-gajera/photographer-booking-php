@@ -20,14 +20,14 @@ require_once('../config/connection.php');
 							</li>
 							<li class="active">Categories Table</li>
 						</ul><!-- /.breadcrumb -->
-
 							
 					</div>
 
 					<div class="page-content">
 						
 
-						<!-- begin-->				<div class="page-header">
+						<!-- begin-->				
+						<div class="page-header">
 							<h1>
 								Tables
 								<small>
@@ -40,16 +40,12 @@ require_once('../config/connection.php');
 						<div class="row">
 							<div class="col-xs-12">
 							
-							
 								<!-- PAGE CONTENT BEGINS -->
 								<div class="row">
 									<div class="col-xs-12">
 										<table id="simple-table" class="table  table-bordered table-hover">
 											<thead>
-											
-											
-												
-												<tr>
+											<tr>
 												
 													<th>Categories id</th>
 													<th>Categories name</th>
@@ -59,10 +55,7 @@ require_once('../config/connection.php');
 											</thead>
 
 											<tbody>
-											
-												
-												
-													<?php
+											<?php
 											$sql="Select * from categories";
 	
 	                                        $result = mysqli_query($conn,$sql);
@@ -89,16 +82,12 @@ require_once('../config/connection.php');
 										</table>
 									</div><!-- /.span -->
 								</div><!-- /.row -->
-								
-								
-
-								<div class="hr hr-18 dotted hr-double"></div>
+							<div class="hr hr-18 dotted hr-double"></div>
 								
 						
 				<?php 
-include('footer.php');
-
-?>			
+				include('footer.php');
+				?>			
 
 								
 

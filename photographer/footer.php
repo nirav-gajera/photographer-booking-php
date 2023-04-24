@@ -3,14 +3,9 @@
 									</div>
 								</form>
 
-								
-
-								
 									
 								</div>
 
-								
-									
 								</div><!-- PAGE CONTENT ENDS -->
 							</div><!-- /.col -->
 						</div><!-- /.row -->
@@ -18,9 +13,6 @@
 				</div>
 			</div><!-- /.main-content -->
 
-			
-
-			
 		</div><!-- /.main-container -->
 
 		<!-- basic scripts -->
@@ -65,9 +57,6 @@
 
 		<!-- inline scripts related to this page -->
 		
-
-
-
 
 			<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
 				<i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i>

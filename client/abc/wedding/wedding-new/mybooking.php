@@ -73,8 +73,6 @@ $paypalID = 'kuldeeppatel1785@gmail.com'; //Business Email,
 
 <body>
     
-   
-    
     <div class="tp-dashboard-head">
         <!-- page header -->
         <div class="container">
@@ -138,15 +136,13 @@ $paypalID = 'kuldeeppatel1785@gmail.com'; //Business Email,
                            
                         </div>
                     </div>
-	
-                    
-								
+			
 								<?php
 								 
 								 $id=$_SESSION['user_name'];
 
 
-							$sql = "select * from booking b join  package p where b.pack_id= p.pack_id and user_id='".$id."'" ;
+							    $sql = "select * from booking b join  package p where b.pack_id= p.pack_id and user_id='".$id."'" ;
 							//echo $sql;
 							//die;
 							
@@ -155,10 +151,8 @@ $paypalID = 'kuldeeppatel1785@gmail.com'; //Business Email,
 							{
 							$id=$row['user_id'];
 							
-							
 							?>
  
-			
                         <div class="list-group-item">
 								<div class="row">
                            
@@ -247,7 +241,6 @@ $paypalID = 'kuldeeppatel1785@gmail.com'; //Business Email,
                    
                     <?php } ?>
                    
-                    
                    
                 </div>
             </div>

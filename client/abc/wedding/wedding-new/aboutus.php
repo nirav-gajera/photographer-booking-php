@@ -35,7 +35,7 @@ include ('header.php');
                             </div>-->
 							<p>candid clicks World is the world's fastest-growing photography website, covering every aspect of image-making, from DSLR and mirrorless cameras to cinema cameras, instant cameras, camera phones, drones, webcams, image editing, video post-production and printing. 
 
-Since 2017, DCW has been sharing its passion, knowledge, excitement and education  with the photography and videography imaging communities. Through informative tutorials, no-nonsense reviews and in-depth buying advice, we help everyone from first-time camera buyers to seasoned professionals find the best gear – and show them how to use it. </p>
+                                Since 2017, DCW has been sharing its passion, knowledge, excitement and education  with the photography and videography imaging communities. Through informative tutorials, no-nonsense reviews and in-depth buying advice, we help everyone from first-time camera buyers to seasoned professionals find the best gear – and show them how to use it. </p>
                         </div>
                         <div class="profile-meta">
                             <div class="row">

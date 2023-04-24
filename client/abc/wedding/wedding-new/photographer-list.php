@@ -7,17 +7,17 @@ include ('header.php');
 require_once('../../../../config/connection.php');
 if(isset($_GET['id']))
 {
-$id = $_GET['id'];
-$sql="select * from photographer_page where photog_id='".$id."'";
-$result=mysqli_query($conn,$sql);
-$row = mysqli_fetch_array($result);
+    $id = $_GET['id'];
+    $sql="select * from photographer_page where photog_id='".$id."'";
+    $result=mysqli_query($conn,$sql);
+    $row = mysqli_fetch_array($result);
 }
-if(isset($_GET['id']))
+    if(isset($_GET['id']))
 {
-$id = $_GET['id'];
-$sql="select * from sub_categories where sub_cat_id='".$id."'";
-$result=mysqli_query($conn,$sql);
-$row = mysqli_fetch_array($result);
+    $id = $_GET['id'];
+    $sql="select * from sub_categories where sub_cat_id='".$id."'";
+    $result=mysqli_query($conn,$sql);
+    $row = mysqli_fetch_array($result);
 }
 
 
